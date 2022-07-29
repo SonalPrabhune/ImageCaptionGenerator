@@ -1,0 +1,1 @@
+Download glove embeddings glove.6B.200d and put it in this path .\ImageCaptionGenerator\ImageCaptionGenerator\Glove
